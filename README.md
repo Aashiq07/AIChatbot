@@ -1,6 +1,9 @@
 # chatbot
 
-A new Flutter project.
+This Project is created with the help of the following:
+*Flutter
+*Google Gemini AI
+*Google AI Studio
 
 ## Getting Started
 
