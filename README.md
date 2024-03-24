@@ -3,7 +3,7 @@
 This Project is created with the help of the following:
 * Flutter
 * Google Gemini AI
-* Google AI Studio
+* Google AI Studio (API Key)
 
 ## Getting Started
 
